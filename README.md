@@ -42,7 +42,7 @@ Otel müşteri yorumlarını **NLP (Doğal Dil İşleme)** ile otomatik analiz e
 * **Rolüm:** Proje Yöneticisi & Lead Developer (Frontend, NLP Pipeline Entegrasyonları, Dashboard)
 * **Temel Teknolojiler:** Python, React.
 
-#### 🏨 [Otel Check-in & Yönetim Sistemi (Yazılım Mühendisliği Projesi)](https://github.com/Beratdmrbs/Yazilim_Muhendisligi_Projesi)
+#### 🏨 [Hotel Check-in & Yönetim Sistemi](https://github.com/Beratdmrbs/Hotel-CheckIn-System)
 Bir otelin misafir giriş (check-in) ve rezervasyon operasyonlarını dijitalleştiren Flutter tabanlı mobil uygulama. Gerçek zamanlı oda durumu, rezervasyon ve rol bazlı erişim sağlar.
 * **Temel Teknolojiler:** Flutter, Dart, Firebase Firestore.
 
