@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Hakkımda / About Me
 
-- 🎓 **Bilgisayar Mühendisliği 3. Sınıf Öğrencisiyim.** Üniversite eğitimime devam ederken pratik projeler geliştirerek sektörde tecrübe kazanıyorum.
+- 🎓 **Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.** Üniversite eğitimime devam ederken pratik projeler geliştirerek sektörde tecrübe kazanıyorum.
 - 💡 **İlgi Alanlarım:** Ağırlıklı olarak Mobil Uygulama Geliştirme (Flutter), Python tabanlı projeler ve modern Frontend (React) geliştirme süreçleri üzerinde çalışıyorum.
 - 🚀 **Öğrenmeye Açığım:** Her yeni projede kendimi bir adım daha ileri taşıyor, yeni teknolojileri deneyimlemeyi seviyorum.
 
